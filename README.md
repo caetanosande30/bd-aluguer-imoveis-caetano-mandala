@@ -4,7 +4,7 @@
 **Curso:** Licenciatura em Informática, 2.º ano — Universidade Licungo
 **Disciplina:** Tecnologias de Base de Dados
 **Tema:** Aluguer de casas e quartos
-**Vídeo de apresentação:** _(colocar aqui o link do YouTube)_
+**Vídeo de apresentação:** _(https://www.youtube.com/watch?v=7Usq-u9vq8o&t=60s)_
 
 ## Descrição do problema
 
